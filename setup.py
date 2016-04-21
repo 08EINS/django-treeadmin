@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 from treeadmin import __version__ as version
 
 setup(
-    name = 'django-treeadmin',
+    name = 'django-treeadmin-08eins-custom',
     version = version,
     description = 'Tree UI for mptt-managed models, extracted from FeinCMS',
     long_description=open(os.path.join(os.path.dirname(__file__), 'README.rst')).read(),
